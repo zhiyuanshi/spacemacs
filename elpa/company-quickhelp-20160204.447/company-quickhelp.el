@@ -4,7 +4,7 @@
 
 ;; Author: Lars Andersen <expez@expez.com>
 ;; URL: https://www.github.com/expez/company-quickhelp
-;; Package-Version: 20160131.2318
+;; Package-Version: 20160204.447
 ;; Keywords: company popup documentation quickhelp
 ;; Version: 1.2.0
 ;; Package-Requires: ((emacs "24.4") (company "0.8.9") (pos-tip "0.4.6"))
@@ -69,7 +69,7 @@ be triggered manually using `company-quickhelp-show'."
 (defvar company-quickhelp--timer nil
   "Quickhelp idle timer.")
 
-(defvar company-quickhelp--original-tooltip-width nil
+(defvar company-quickhelp--original-tooltip-width company-tooltip-minimum-width
   "The documentation popup breaks inexplicably when we transition
   from a large pseudo-tooltip to a small one.  We solve this by
   overriding `company-tooltip-minimum-width' and save the
@@ -90,7 +90,7 @@ be triggered manually using `company-quickhelp-show'."
   ;; cons containing the doc buffer and a position at which to start
   ;; reading.
   (let ((doc-buffer (if (consp doc) (car doc) doc))
-        (doc-begin (when (consp doc) (cadr doc))))
+        (doc-begin (when (consp doc) (cdr doc))))
     (with-current-buffer doc-buffer
       (let ((truncated t))
         (goto-char (or doc-begin (point-min)))
