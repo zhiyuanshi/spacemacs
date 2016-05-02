@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "clang-format" "clang-format.el" (22195 29744
+;;;### (autoloads nil "clang-format" "clang-format.el" (22310 64388
 ;;;;;;  0 0))
 ;;; Generated autoloads from clang-format.el
 

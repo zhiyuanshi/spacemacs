@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "ample-flat-theme" "ample-flat-theme.el" (22204
-;;;;;;  34806 0 0))
+;;;### (autoloads nil "ample-flat-theme" "ample-flat-theme.el" (22310
+;;;;;;  64374 0 0))
 ;;; Generated autoloads from ample-flat-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
@@ -17,7 +17,7 @@ Apply the ample-flat-theme.
 ;;;***
 
 ;;;### (autoloads nil "ample-light-theme" "ample-light-theme.el"
-;;;;;;  (22204 34806 0 0))
+;;;;;;  (22310 64374 0 0))
 ;;; Generated autoloads from ample-light-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
@@ -29,7 +29,7 @@ Apply the ample-light-theme.
 
 ;;;***
 
-;;;### (autoloads nil "ample-theme" "ample-theme.el" (22204 34806
+;;;### (autoloads nil "ample-theme" "ample-theme.el" (22310 64374
 ;;;;;;  0 0))
 ;;; Generated autoloads from ample-theme.el
 
@@ -42,7 +42,7 @@ Apply the ample-theme.
 
 ;;;***
 
-;;;### (autoloads nil nil ("ample-theme-pkg.el") (22204 34806 191906
+;;;### (autoloads nil nil ("ample-theme-pkg.el") (22310 64374 866959
 ;;;;;;  0))
 
 ;;;***

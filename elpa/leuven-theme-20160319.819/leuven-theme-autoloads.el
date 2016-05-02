@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "leuven-theme" "leuven-theme.el" (22254 27787
+;;;### (autoloads nil "leuven-theme" "leuven-theme.el" (22310 64484
 ;;;;;;  0 0))
 ;;; Generated autoloads from leuven-theme.el
 

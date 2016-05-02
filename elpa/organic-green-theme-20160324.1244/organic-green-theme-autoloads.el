@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "organic-green-theme" "organic-green-theme.el"
-;;;;;;  (22261 16674 0 0))
+;;;;;;  (22310 64501 0 0))
 ;;; Generated autoloads from organic-green-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

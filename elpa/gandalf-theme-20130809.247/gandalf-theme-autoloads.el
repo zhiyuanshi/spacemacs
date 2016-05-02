@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "gandalf-theme" "gandalf-theme.el" (22204 34824
+;;;### (autoloads nil "gandalf-theme" "gandalf-theme.el" (22310 64458
 ;;;;;;  0 0))
 ;;; Generated autoloads from gandalf-theme.el
 

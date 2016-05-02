@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "dakrone-theme" "dakrone-theme.el" (22204 34818
+;;;### (autoloads nil "dakrone-theme" "dakrone-theme.el" (22310 64399
 ;;;;;;  0 0))
 ;;; Generated autoloads from dakrone-theme.el
 

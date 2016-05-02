@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "ess-smart-equals" "ess-smart-equals.el" (22189
-;;;;;;  53371 0 0))
+;;;### (autoloads nil "ess-smart-equals" "ess-smart-equals.el" (22310
+;;;;;;  64427 0 0))
 ;;; Generated autoloads from ess-smart-equals.el
 
 (autoload 'ess-smart-equals "ess-smart-equals" "\

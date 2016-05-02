@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "fancy-battery" "fancy-battery.el" (22189 40075
+;;;### (autoloads nil "fancy-battery" "fancy-battery.el" (22310 64448
 ;;;;;;  0 0))
 ;;; Generated autoloads from fancy-battery.el
 

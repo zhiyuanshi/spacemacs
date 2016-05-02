@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "julia-mode" "julia-mode.el" (22303 30838 0
+;;;### (autoloads nil "julia-mode" "julia-mode.el" (22310 64404 0
 ;;;;;;  0))
 ;;; Generated autoloads from julia-mode.el
 

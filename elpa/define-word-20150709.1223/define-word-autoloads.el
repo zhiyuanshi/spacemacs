@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "define-word" "define-word.el" (22189 40062
+;;;### (autoloads nil "define-word" "define-word.el" (22310 64401
 ;;;;;;  0 0))
 ;;; Generated autoloads from define-word.el
 

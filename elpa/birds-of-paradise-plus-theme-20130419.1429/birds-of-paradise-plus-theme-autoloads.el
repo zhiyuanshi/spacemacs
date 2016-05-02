@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "birds-of-paradise-plus-theme" "birds-of-paradise-plus-theme.el"
-;;;;;;  (22204 34809 0 0))
+;;;;;;  (22310 64386 0 0))
 ;;; Generated autoloads from birds-of-paradise-plus-theme.el
 
 (and load-file-name (boundp 'custom-theme-load-path) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

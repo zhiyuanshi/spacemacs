@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "pytest" "pytest.el" (22271 56341 0 0))
+;;;### (autoloads nil "pytest" "pytest.el" (22310 64530 0 0))
 ;;; Generated autoloads from pytest.el
 
 (autoload 'pytest-all "pytest" "\

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "adaptive-wrap" "adaptive-wrap.el" (22189 40057
+;;;### (autoloads nil "adaptive-wrap" "adaptive-wrap.el" (22310 64371
 ;;;;;;  0 0))
 ;;; Generated autoloads from adaptive-wrap.el
 

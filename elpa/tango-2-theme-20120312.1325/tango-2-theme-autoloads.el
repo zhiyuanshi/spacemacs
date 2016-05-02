@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "tango-2-theme" "tango-2-theme.el" (22204 34855
+;;;### (autoloads nil "tango-2-theme" "tango-2-theme.el" (22310 64547
 ;;;;;;  0 0))
 ;;; Generated autoloads from tango-2-theme.el
 

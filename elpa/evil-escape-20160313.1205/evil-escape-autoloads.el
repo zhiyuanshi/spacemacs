@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "evil-escape" "evil-escape.el" (22254 23427
+;;;### (autoloads nil "evil-escape" "evil-escape.el" (22310 64431
 ;;;;;;  0 0))
 ;;; Generated autoloads from evil-escape.el
 

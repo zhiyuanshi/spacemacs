@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "firebelly-theme" "firebelly-theme.el" (22204
-;;;;;;  34822 0 0))
+;;;### (autoloads nil "firebelly-theme" "firebelly-theme.el" (22310
+;;;;;;  64450 0 0))
 ;;; Generated autoloads from firebelly-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

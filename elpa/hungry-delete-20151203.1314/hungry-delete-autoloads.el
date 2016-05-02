@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "hungry-delete" "hungry-delete.el" (22189 40087
+;;;### (autoloads nil "hungry-delete" "hungry-delete.el" (22310 64479
 ;;;;;;  0 0))
 ;;; Generated autoloads from hungry-delete.el
 

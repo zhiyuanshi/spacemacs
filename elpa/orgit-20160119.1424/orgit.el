@@ -6,6 +6,7 @@
 ;; Maintainer: Jonas Bernoulli <jonas@bernoul.li>
 
 ;; Package-Requires: ((emacs "24.4") (dash "2.12.1") (magit "2.4.1") (org "8.3.3"))
+;; Package-Version: 20160119.1424
 ;; Homepage: https://github.com/magit/orgit
 
 ;; This library was inspired by `org-magit.el' which was written by
@@ -40,7 +41,6 @@
 ;; When an Org file containing such links is exported, then the url of
 ;; the remote configured with `orgit-remote' is used to generate a web
 ;; url according to `orgit-export-alist'.  That webpage should present
-;; Package-Version: 20160119.1424
 ;; approximately the same information as the Magit buffer would.
 
 ;; Both the remote to be considered the public remote, as well as the

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "faceup" "faceup.el" (22309 44619 0 0))
+;;;### (autoloads nil "faceup" "faceup.el" (22310 64532 0 0))
 ;;; Generated autoloads from faceup.el
 
 (autoload 'faceup-view-buffer "faceup" "\

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "heroku-theme" "heroku-theme.el" (22204 34828
+;;;### (autoloads nil "heroku-theme" "heroku-theme.el" (22310 64476
 ;;;;;;  0 0))
 ;;; Generated autoloads from heroku-theme.el
 

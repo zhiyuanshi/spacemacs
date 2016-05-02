@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "subatomic256-theme" "subatomic256-theme.el"
-;;;;;;  (22204 34853 0 0))
+;;;;;;  (22310 64545 0 0))
 ;;; Generated autoloads from subatomic256-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

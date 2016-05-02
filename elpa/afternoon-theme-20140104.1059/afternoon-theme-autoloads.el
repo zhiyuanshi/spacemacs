@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "afternoon-theme" "afternoon-theme.el" (22204
-;;;;;;  34803 0 0))
+;;;### (autoloads nil "afternoon-theme" "afternoon-theme.el" (22310
+;;;;;;  64372 0 0))
 ;;; Generated autoloads from afternoon-theme.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

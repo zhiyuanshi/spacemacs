@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "inkpot-theme" "inkpot-theme.el" (22204 34828
+;;;### (autoloads nil "inkpot-theme" "inkpot-theme.el" (22310 64482
 ;;;;;;  0 0))
 ;;; Generated autoloads from inkpot-theme.el
 

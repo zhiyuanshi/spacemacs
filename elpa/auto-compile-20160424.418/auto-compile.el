@@ -5,9 +5,9 @@
 ;; Author: Jonas Bernoulli <jonas@bernoul.li>
 ;; Created: 20080830
 ;; Package-Requires: ((emacs "24.3") (dash "2.12.1") (packed "0.5.3"))
+;; Package-Version: 20160424.418
 ;; Homepage: https://github.com/tarsius/auto-compile
 ;; Keywords: compile, convenience, lisp
-;; Package-Version: 20160424.418
 
 ;; This file is not part of GNU Emacs.
 

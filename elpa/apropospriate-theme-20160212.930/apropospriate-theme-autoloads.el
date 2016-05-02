@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "apropospriate" "apropospriate.el" (22206 64951
+;;;### (autoloads nil "apropospriate" "apropospriate.el" (22310 64379
 ;;;;;;  0 0))
 ;;; Generated autoloads from apropospriate.el
 
@@ -12,8 +12,8 @@
 ;;;***
 
 ;;;### (autoloads nil nil ("apropospriate-dark-theme.el" "apropospriate-light-theme.el"
-;;;;;;  "apropospriate-theme-pkg.el" "apropospriate-theme.el") (22206
-;;;;;;  64951 748641 0))
+;;;;;;  "apropospriate-theme-pkg.el" "apropospriate-theme.el") (22310
+;;;;;;  64379 150601 0))
 
 ;;;***
 

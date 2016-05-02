@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "zonokai" "zonokai.el" (22261 16680 0 0))
+;;;### (autoloads nil "zonokai" "zonokai.el" (22310 64556 0 0))
 ;;; Generated autoloads from zonokai.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
@@ -11,7 +11,7 @@
 ;;;***
 
 ;;;### (autoloads nil nil ("zonokai-blue-theme.el" "zonokai-red-theme.el"
-;;;;;;  "zonokai-theme-pkg.el" "zonokai-theme.el") (22261 16680 963113
+;;;;;;  "zonokai-theme-pkg.el" "zonokai-theme.el") (22310 64556 975582
 ;;;;;;  0))
 
 ;;;***

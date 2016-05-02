@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "planet-theme" "planet-theme.el" (22303 30858
+;;;### (autoloads nil "planet-theme" "planet-theme.el" (22310 64527
 ;;;;;;  0 0))
 ;;; Generated autoloads from planet-theme.el
 

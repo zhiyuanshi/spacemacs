@@ -4,23 +4,23 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "monochrome-bright-theme" "monochrome-bright-theme.el"
-;;;;;;  (22204 34836 0 0))
+;;;;;;  (22310 64495 0 0))
 ;;; Generated autoloads from monochrome-bright-theme.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
 
 ;;;***
 
-;;;### (autoloads nil "monochrome-theme" "monochrome-theme.el" (22204
-;;;;;;  34836 0 0))
+;;;### (autoloads nil "monochrome-theme" "monochrome-theme.el" (22310
+;;;;;;  64495 0 0))
 ;;; Generated autoloads from monochrome-theme.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
 
 ;;;***
 
-;;;### (autoloads nil nil ("monochrome-theme-pkg.el") (22204 34836
-;;;;;;  895930 0))
+;;;### (autoloads nil nil ("monochrome-theme-pkg.el") (22310 64495
+;;;;;;  116831 0))
 
 ;;;***
 

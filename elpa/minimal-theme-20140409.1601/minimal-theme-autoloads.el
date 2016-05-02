@@ -4,14 +4,14 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "minimal-light-theme" "minimal-light-theme.el"
-;;;;;;  (22204 34833 0 0))
+;;;;;;  (22310 64491 0 0))
 ;;; Generated autoloads from minimal-light-theme.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
 
 ;;;***
 
-;;;### (autoloads nil "minimal-theme" "minimal-theme.el" (22204 34833
+;;;### (autoloads nil "minimal-theme" "minimal-theme.el" (22310 64491
 ;;;;;;  0 0))
 ;;; Generated autoloads from minimal-theme.el
 
@@ -19,7 +19,7 @@
 
 ;;;***
 
-;;;### (autoloads nil nil ("minimal-theme-pkg.el") (22204 34833 980817
+;;;### (autoloads nil nil ("minimal-theme-pkg.el") (22310 64491 362010
 ;;;;;;  0))
 
 ;;;***

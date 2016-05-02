@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "toxi-theme" "toxi-theme.el" (22303 30859 0
+;;;### (autoloads nil "toxi-theme" "toxi-theme.el" (22310 64549 0
 ;;;;;;  0))
 ;;; Generated autoloads from toxi-theme.el
 
