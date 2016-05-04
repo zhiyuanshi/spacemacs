@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "restart-emacs" "restart-emacs.el" (22310 64536
+;;;### (autoloads nil "restart-emacs" "restart-emacs.el" (22313 59810
 ;;;;;;  0 0))
 ;;; Generated autoloads from restart-emacs.el
 

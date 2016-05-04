@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "jbeans-theme" "jbeans-theme.el" (22310 64484
+;;;### (autoloads nil "jbeans-theme" "jbeans-theme.el" (22313 59739
 ;;;;;;  0 0))
 ;;; Generated autoloads from jbeans-theme.el
 

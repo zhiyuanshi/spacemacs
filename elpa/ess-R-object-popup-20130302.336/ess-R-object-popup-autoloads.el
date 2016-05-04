@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "ess-R-object-popup" "ess-R-object-popup.el"
-;;;;;;  (22310 64426 0 0))
+;;;;;;  (22313 59643 0 0))
 ;;; Generated autoloads from ess-R-object-popup.el
 
 (autoload 'ess-R-object-popup "ess-R-object-popup" "\

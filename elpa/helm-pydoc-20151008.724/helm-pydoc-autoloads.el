@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "helm-pydoc" "helm-pydoc.el" (22310 64473 0
+;;;### (autoloads nil "helm-pydoc" "helm-pydoc.el" (22313 59726 0
 ;;;;;;  0))
 ;;; Generated autoloads from helm-pydoc.el
 
@@ -14,7 +14,7 @@
 
 ;;;***
 
-;;;### (autoloads nil nil ("helm-pydoc-pkg.el") (22310 64473 989453
+;;;### (autoloads nil nil ("helm-pydoc-pkg.el") (22313 59726 460447
 ;;;;;;  0))
 
 ;;;***

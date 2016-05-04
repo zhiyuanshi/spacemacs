@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "lush-theme" "lush-theme.el" (22310 64486 0
+;;;### (autoloads nil "lush-theme" "lush-theme.el" (22313 59743 0
 ;;;;;;  0))
 ;;; Generated autoloads from lush-theme.el
 

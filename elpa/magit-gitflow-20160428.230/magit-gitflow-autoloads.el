@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "magit-gitflow" "magit-gitflow.el" (22310 64487
+;;;### (autoloads nil "magit-gitflow" "magit-gitflow.el" (22313 59746
 ;;;;;;  0 0))
 ;;; Generated autoloads from magit-gitflow.el
 

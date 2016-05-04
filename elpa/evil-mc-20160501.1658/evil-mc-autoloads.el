@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "evil-mc" "evil-mc.el" (22310 64441 0 0))
+;;;### (autoloads nil "evil-mc" "evil-mc.el" (22313 59671 0 0))
 ;;; Generated autoloads from evil-mc.el
 
 (autoload 'evil-mc-mode "evil-mc" "\
@@ -53,7 +53,7 @@ Turn off evil-mc mode in the current buffer.
 ;;;;;;  "evil-mc-common.el" "evil-mc-cursor-make.el" "evil-mc-cursor-state.el"
 ;;;;;;  "evil-mc-known-commands.el" "evil-mc-pkg.el" "evil-mc-region.el"
 ;;;;;;  "evil-mc-scratch.el" "evil-mc-setup.el" "evil-mc-undo.el"
-;;;;;;  "evil-mc-vars.el") (22310 64441 571075 0))
+;;;;;;  "evil-mc-vars.el") (22313 59671 799621 0))
 
 ;;;***
 

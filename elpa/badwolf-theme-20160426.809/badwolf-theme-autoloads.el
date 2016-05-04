@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "badwolf-theme" "badwolf-theme.el" (22310 64386
+;;;### (autoloads nil "badwolf-theme" "badwolf-theme.el" (22313 59589
 ;;;;;;  0 0))
 ;;; Generated autoloads from badwolf-theme.el
 

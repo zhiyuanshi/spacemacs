@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "mustang-theme" "mustang-theme.el" (22310 64496
+;;;### (autoloads nil "mustang-theme" "mustang-theme.el" (22313 59767
 ;;;;;;  0 0))
 ;;; Generated autoloads from mustang-theme.el
 

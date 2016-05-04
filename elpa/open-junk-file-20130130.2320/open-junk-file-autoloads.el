@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil nil ("open-junk-file.el") (22310 64501 246151
+;;;### (autoloads nil nil ("open-junk-file.el") (22313 59773 837322
 ;;;;;;  0))
 
 ;;;***

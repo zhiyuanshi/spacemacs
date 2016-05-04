@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "ess-R-data-view" "ess-R-data-view.el" (22310
-;;;;;;  64426 0 0))
+;;;### (autoloads nil "ess-R-data-view" "ess-R-data-view.el" (22313
+;;;;;;  59643 0 0))
 ;;; Generated autoloads from ess-R-data-view.el
 
 (autoload 'ess-R-dv-pprint "ess-R-data-view" "\

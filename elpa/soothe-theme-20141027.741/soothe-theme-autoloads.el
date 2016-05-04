@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "soothe-theme" "soothe-theme.el" (22310 64541
+;;;### (autoloads nil "soothe-theme" "soothe-theme.el" (22313 59815
 ;;;;;;  0 0))
 ;;; Generated autoloads from soothe-theme.el
 

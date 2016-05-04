@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "cmake-mode" "cmake-mode.el" (22310 64390 0
+;;;### (autoloads nil "cmake-mode" "cmake-mode.el" (22313 59597 0
 ;;;;;;  0))
 ;;; Generated autoloads from cmake-mode.el
 

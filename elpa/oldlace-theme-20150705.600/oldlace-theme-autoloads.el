@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "oldlace-theme" "oldlace-theme.el" (22310 64499
+;;;### (autoloads nil "oldlace-theme" "oldlace-theme.el" (22313 59772
 ;;;;;;  0 0))
 ;;; Generated autoloads from oldlace-theme.el
 

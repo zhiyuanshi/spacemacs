@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "bubbleberry-theme" "bubbleberry-theme.el"
-;;;;;;  (22310 64387 0 0))
+;;;;;;  (22313 59592 0 0))
 ;;; Generated autoloads from bubbleberry-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

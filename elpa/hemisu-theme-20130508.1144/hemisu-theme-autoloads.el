@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "hemisu-theme" "hemisu-theme.el" (22310 64476
+;;;### (autoloads nil "hemisu-theme" "hemisu-theme.el" (22313 59729
 ;;;;;;  0 0))
 ;;; Generated autoloads from hemisu-theme.el
 
@@ -12,7 +12,7 @@
 ;;;***
 
 ;;;### (autoloads nil nil ("hemisu-dark-theme.el" "hemisu-light-theme.el"
-;;;;;;  "hemisu-theme-pkg.el") (22310 64476 334480 0))
+;;;;;;  "hemisu-theme-pkg.el") (22313 59729 679261 0))
 
 ;;;***
 

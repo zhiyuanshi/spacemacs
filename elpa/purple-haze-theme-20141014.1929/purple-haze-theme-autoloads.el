@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "purple-haze-theme" "purple-haze-theme.el"
-;;;;;;  (22310 64528 0 0))
+;;;;;;  (22313 59806 0 0))
 ;;; Generated autoloads from purple-haze-theme.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

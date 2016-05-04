@@ -37,7 +37,7 @@
 		 nil "Indent and dedent Lisp code, automatically adjust close parens" tar
 		 ((:url . "http://elpa.gnu.org/packages/adjust-parens.html"))])
  (aggressive-indent .
-		    [(1 6)
+		    [(1 7)
 		     ((emacs
 		       (24 1))
 		      (cl-lib
@@ -595,7 +595,7 @@
 	     ((:url . "https://github.com/michael-heerdegen/on-screen.el")
 	      (:keywords "convenience"))])
  (org .
-      [(20160425)
+      [(20160502)
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
