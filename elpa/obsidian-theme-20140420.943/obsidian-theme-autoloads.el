@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "obsidian-theme" "obsidian-theme.el" (22313
-;;;;;;  59771 0 0))
+;;;### (autoloads nil "obsidian-theme" "obsidian-theme.el" (22324
+;;;;;;  47737 0 0))
 ;;; Generated autoloads from obsidian-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

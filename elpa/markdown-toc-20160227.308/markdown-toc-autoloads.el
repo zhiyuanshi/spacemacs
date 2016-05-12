@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "markdown-toc" "markdown-toc.el" (22313 59751
+;;;### (autoloads nil "markdown-toc" "markdown-toc.el" (22324 47724
 ;;;;;;  0 0))
 ;;; Generated autoloads from markdown-toc.el
 
@@ -21,7 +21,7 @@ If called interactively with prefix arg REPLACE-TOC-P, replaces previous TOC.
 
 ;;;***
 
-;;;### (autoloads nil nil ("markdown-toc-pkg.el") (22313 59751 997952
+;;;### (autoloads nil nil ("markdown-toc-pkg.el") (22324 47724 109515
 ;;;;;;  0))
 
 ;;;***

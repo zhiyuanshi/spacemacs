@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "flatui-theme" "flatui-theme.el" (22313 59697
+;;;### (autoloads nil "flatui-theme" "flatui-theme.el" (22324 47649
 ;;;;;;  0 0))
 ;;; Generated autoloads from flatui-theme.el
 

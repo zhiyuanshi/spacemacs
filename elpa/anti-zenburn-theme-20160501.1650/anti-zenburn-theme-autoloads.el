@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "anti-zenburn-theme" "anti-zenburn-theme.el"
-;;;;;;  (22313 59579 0 0))
+;;;;;;  (22324 47222 0 0))
 ;;; Generated autoloads from anti-zenburn-theme.el
 
 (and load-file-name (boundp 'custom-theme-load-path) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

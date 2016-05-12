@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "stekene-theme-common" "stekene-theme-common.el"
-;;;;;;  (22313 59818 0 0))
+;;;;;;  (22324 47792 0 0))
 ;;; Generated autoloads from stekene-theme-common.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))
@@ -12,7 +12,7 @@
 ;;;***
 
 ;;;### (autoloads nil nil ("stekene-dark-theme.el" "stekene-light-theme.el"
-;;;;;;  "stekene-theme-pkg.el") (22313 59818 464324 0))
+;;;;;;  "stekene-theme-pkg.el") (22324 47792 624846 0))
 
 ;;;***
 

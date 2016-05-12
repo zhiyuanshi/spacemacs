@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "chruby" "chruby.el" (22319 27189 0 0))
+;;;### (autoloads nil "chruby" "chruby.el" (22324 47236 0 0))
 ;;; Generated autoloads from chruby.el
 
 (autoload 'chruby "chruby" "\

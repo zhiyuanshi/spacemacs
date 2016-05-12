@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "pastels-on-dark-theme" "pastels-on-dark-theme.el"
-;;;;;;  (22313 59799 0 0))
+;;;;;;  (22324 47765 0 0))
 ;;; Generated autoloads from pastels-on-dark-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

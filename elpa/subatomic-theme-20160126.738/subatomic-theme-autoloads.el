@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "subatomic-theme" "subatomic-theme.el" (22313
-;;;;;;  59818 0 0))
+;;;### (autoloads nil "subatomic-theme" "subatomic-theme.el" (22324
+;;;;;;  47793 0 0))
 ;;; Generated autoloads from subatomic-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

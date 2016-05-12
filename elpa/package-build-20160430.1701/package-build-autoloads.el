@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "package-build" "package-build.el" (22313 59555
+;;;### (autoloads nil "package-build" "package-build.el" (22324 47199
 ;;;;;;  0 0))
 ;;; Generated autoloads from package-build.el
 

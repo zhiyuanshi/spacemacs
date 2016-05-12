@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "alect-themes" "alect-themes.el" (22313 59574
+;;;### (autoloads nil "alect-themes" "alect-themes.el" (22324 47217
 ;;;;;;  0 0))
 ;;; Generated autoloads from alect-themes.el
 
@@ -24,8 +24,8 @@ values should be in matching order).
 
 ;;;### (autoloads nil nil ("alect-black-alt-theme.el" "alect-black-theme.el"
 ;;;;;;  "alect-dark-alt-theme.el" "alect-dark-theme.el" "alect-light-alt-theme.el"
-;;;;;;  "alect-light-theme.el" "alect-themes-pkg.el") (22313 59574
-;;;;;;  149293 0))
+;;;;;;  "alect-light-theme.el" "alect-themes-pkg.el") (22324 47217
+;;;;;;  124154 0))
 
 ;;;***
 

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "rubocop" "rubocop.el" (22319 27192 0 0))
+;;;### (autoloads nil "rubocop" "rubocop.el" (22324 47780 0 0))
 ;;; Generated autoloads from rubocop.el
 
 (autoload 'rubocop-check-project "rubocop" "\

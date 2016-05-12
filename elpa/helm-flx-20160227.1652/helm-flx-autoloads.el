@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "helm-flx" "helm-flx.el" (22313 59722 0 0))
+;;;### (autoloads nil "helm-flx" "helm-flx.el" (22324 47678 0 0))
 ;;; Generated autoloads from helm-flx.el
 
 (defvar helm-flx-mode nil "\

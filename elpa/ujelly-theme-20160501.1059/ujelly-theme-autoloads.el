@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "ujelly-theme" "ujelly-theme.el" (22313 59826
+;;;### (autoloads nil "ujelly-theme" "ujelly-theme.el" (22324 47805
 ;;;;;;  0 0))
 ;;; Generated autoloads from ujelly-theme.el
 

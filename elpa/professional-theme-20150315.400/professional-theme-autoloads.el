@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "professional-theme" "professional-theme.el"
-;;;;;;  (22313 59806 0 0))
+;;;;;;  (22324 47771 0 0))
 ;;; Generated autoloads from professional-theme.el
 
 (when load-file-name (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

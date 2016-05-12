@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "flatland-theme" "flatland-theme.el" (22313
-;;;;;;  59693 0 0))
+;;;### (autoloads nil "flatland-theme" "flatland-theme.el" (22324
+;;;;;;  47649 0 0))
 ;;; Generated autoloads from flatland-theme.el
 
 (and load-file-name (boundp 'custom-theme-load-path) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

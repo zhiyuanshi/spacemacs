@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "spacegray-theme" "spacegray-theme.el" (22313
-;;;;;;  59815 0 0))
+;;;### (autoloads nil "spacegray-theme" "spacegray-theme.el" (22324
+;;;;;;  47789 0 0))
 ;;; Generated autoloads from spacegray-theme.el
 
 (when (and (boundp 'custom-theme-load-path) load-file-name) (add-to-list 'custom-theme-load-path (file-name-as-directory (file-name-directory load-file-name))))

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "reverse-theme" "reverse-theme.el" (22313 59811
+;;;### (autoloads nil "reverse-theme" "reverse-theme.el" (22324 47777
 ;;;;;;  0 0))
 ;;; Generated autoloads from reverse-theme.el
 

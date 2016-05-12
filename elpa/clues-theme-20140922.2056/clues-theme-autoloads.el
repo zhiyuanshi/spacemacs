@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "clues-theme" "clues-theme.el" (22313 59594
+;;;### (autoloads nil "clues-theme" "clues-theme.el" (22324 47237
 ;;;;;;  0 0))
 ;;; Generated autoloads from clues-theme.el
 

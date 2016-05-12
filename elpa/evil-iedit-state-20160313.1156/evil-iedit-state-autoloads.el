@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil nil ("evil-iedit-state.el") (22313 59655 937086
+;;;### (autoloads nil nil ("evil-iedit-state.el") (22324 47628 177612
 ;;;;;;  0))
 
 ;;;***

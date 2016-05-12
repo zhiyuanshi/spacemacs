@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "cython-mode" "cython-mode.el" (22313 59605
+;;;### (autoloads nil "cython-mode" "cython-mode.el" (22324 47255
 ;;;;;;  0 0))
 ;;; Generated autoloads from cython-mode.el
 

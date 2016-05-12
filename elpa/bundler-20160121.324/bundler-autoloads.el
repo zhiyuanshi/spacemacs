@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "bundler" "bundler.el" (22319 27188 0 0))
+;;;### (autoloads nil "bundler" "bundler.el" (22324 47235 0 0))
 ;;; Generated autoloads from bundler.el
 
 (autoload 'bundle-open "bundler" "\
